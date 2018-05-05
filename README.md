@@ -2,7 +2,7 @@ Ibrahim Mushtaq
 100620409
 
 
-# Assignment 1
+# Spam Detector
 
 This file contains the Assignment 1 Stuff
 
