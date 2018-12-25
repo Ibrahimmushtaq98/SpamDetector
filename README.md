@@ -1,6 +1,4 @@
 Ibrahim Mushtaq
-100620409
-
 
 # Spam Detector
 
